@@ -15,3 +15,16 @@ function drawTheon() {
   }
 }
 drawTheon();
+
+
+function drawTheon() {
+  console.log("  _______ _    _ ______  ____  _   _ ");
+  console.log(" |__   __| |  | |  ____|/ __ \\| \\ | |");
+  console.log("    | |  | |__| | |__  | |  | |  \\| |");
+  console.log("    | |  |  __  |  __| | |  | | . ` |");
+  console.log("    | |  | |  | | |____| |__| | |\\  |");
+  console.log("    |_|  |_|  |_|______|\\____/|_| \\_|");
+}
+
+// Gọi hàm để hiển thị
+drawTheon();
